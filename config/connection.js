@@ -12,7 +12,7 @@ else
 	{
 		host: 'localhost',
 		user: 'root',
-		password: 'blank',
+		password: '2341',
 		database: 'burgers_db'
 	});
 };
